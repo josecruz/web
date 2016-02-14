@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="856px" height="497px" viewBox="0 0 856 497" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="40.2257583" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="41.9921875" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-2-Copy-4" sketch:type="MSArtboardGroup" transform="translate(-312.000000, -165.000000)">
+            <g id="svg" sketch:type="MSLayerGroup" transform="translate(412.000000, 265.000000)">
+                <ellipse id="Oval-13" opacity="0.02" fill="#FFFFFF" filter="url(#filter-1)" sketch:type="MSShapeGroup" cx="328" cy="148.5" rx="328" ry="148.5"></ellipse>
+                <ellipse id="Oval-13-Copy" opacity="0.06" fill="#FFFFFF" filter="url(#filter-2)" sketch:type="MSShapeGroup" cx="328" cy="146" rx="190" ry="86"></ellipse>
+                <text id="Hey,-it’s-Jose-a-UI-" sketch:type="MSTextLayer" font-family="Karla" font-size="32" font-weight="normal" sketch:alignment="middle">
+                    <tspan x="131.76" y="123" fill="#FFFFFF">Hey, it’s Jose a </tspan>
+                    <tspan x="349.232" y="123" font-weight="bold" fill="#E8DD6E">UI Designer</tspan>
+                    <tspan x="524.24" y="123" fill="#E8DD6E"> </tspan>
+                    <tspan x="206.208" y="160" fill="#FFFFFF">based in Madrid.</tspan>
+                </text>
+                <g id="Untitled-2" transform="translate(94.000000, 174.000000)" sketch:type="MSBitmapLayer">
+                    <g id="Group-5">
+                        <image id="Image-4" x="0" y="0" width="467.580374" height="25" xlink:href="data:image/png;base64,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"></image>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -2,13 +2,17 @@ html {
     height: 100%;
     margin-top: 40px;
 }
+* {
+  margin:0;
+   padding:0;
+}
 body {
   font-family: 'Karla', sans-serif;
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: linear-gradient(-180deg, #F6F8F9 0%, #FFFFFF 100%);
+  background-image: linear-gradient(-180deg, #F6F8F9 25%, #FFFFFF 100%);
 }
 p.body {
   font-family: Karla-Regular;
@@ -16,23 +20,25 @@ p.body {
   color: #757D86;
   line-height: 19px;
 }
-div#first p#name {
-  font-family: Karla-Regular;
-  font-size: 16px;
-  color: #757D86;
-  line-height: 19px;
+#secondary {
+
+
 }
-div#first p#name span.secondary {
-  opacity: 0.5;
-  font-size: 12px;
-  line-height: 13px;
+
+/*svg properties */
+.fallback {
+  display: none;
 }
-#content {
-  margin-top: 20%;
+.no-svg .fallback {
+  background-image: url(img/svg_light.svg);
 }
-#content p.cta {
-  font-size: 32px;
-  color: #757D86;
-  line-height: 58px;
-  width: 240px;
+/*end*/
+
+/*svg centered */
+.svg-position {
+  width:960px;
+  margin:0 auto;
+  text-align:center;
+  z-index: 0;
 }
+/*end */
